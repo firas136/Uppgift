@@ -1,0 +1,31 @@
+{
+  "version": "2.5.0",
+  "summary": {
+    "title": "Modell 1.1",
+    "owner": "Firas",
+    "description": "Analyserar CIA diagram",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "Firas"
+      }
+    ],
+    "diagrams": [
+      {
+        "id": 1,
+        "title": "New CIA diagram",
+        "diagramType": "CIA",
+        "placeholder": "New CIA diagram description",
+        "thumbnail": "./public/content/images/thumbnail.cia.jpg",
+        "version": "2.5.0",
+        "cells": [],
+        "description": "CIA - Kundregister"
+      }
+    ],
+    "diagramTop": 2,
+    "reviewer": "",
+    "threatTop": 0
+  }
+}
